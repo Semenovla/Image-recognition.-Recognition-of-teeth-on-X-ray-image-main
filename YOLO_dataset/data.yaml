@@ -1,0 +1,13 @@
+names:
+- incisor
+- Canines
+- Premolars
+- Molars
+- Wisdom teeth
+- Plomb
+- Bridge
+nc: 7
+test: validation/images
+train: train/images
+val: validation/images
+path: C:/Users/leva/Desktop/inst_segm/P1/YOLO_dataset 
