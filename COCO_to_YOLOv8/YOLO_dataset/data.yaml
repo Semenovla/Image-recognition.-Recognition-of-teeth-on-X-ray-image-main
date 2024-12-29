@@ -1,0 +1,12 @@
+names:
+- incisor
+- Canines
+- Premolars
+- Molars
+- Wisdom teeth
+- Plomb
+- Bridge
+nc: 7
+test: test/images
+train: train/images
+val: validation/images
